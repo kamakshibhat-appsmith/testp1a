@@ -1,0 +1,30 @@
+{
+  "packageUUID": "8aed3447-f403-4f75-996b-1dd961d54852",
+  "moduleUUID": "06a7ec82-b546-426e-a8ad-aca12777e2cb",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "version": "0.0.2",
+    "name": "QueryModule1in1",
+    "contextType": "PAGE",
+    "pageId": "Page1",
+    "inputs": {
+      "input1": "11"
+    },
+    "moduleInputs": {
+      "fqfbckatsc": {
+        "id": "fqfbckatsc",
+        "label": "input1",
+        "propertyName": "inputs.input1",
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1"
+      }
+    },
+    "jsonPathKeys": [],
+    "isValid": true,
+    "invalids": [],
+    "userPermissions": []
+  },
+  "id": "Page1_QueryModule1in1",
+  "deleted": false,
+  "gitSyncId": "664b4efbc3537901d1f9e99a_3c2834aa-fe44-4307-be74-9a0556bf4e60"
+}
